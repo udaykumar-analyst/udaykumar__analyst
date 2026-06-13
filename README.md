@@ -12,10 +12,7 @@
 ![](https://streak-stats.demolab.com/?user=udaykumar-analyst&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=udaykumar-analyst&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=udaykumar-analyst&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
 [![](https://komarev.com/ghpvc/?username=udaykumar-analyst&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
